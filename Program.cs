@@ -13,6 +13,7 @@ class Program
     static async Task Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
+        //Console.WriteLine($"Launched from {Environment.CurrentDirectory}");
         StaticFileServer server = new StaticFileServer("http://localhost:8080/", "view");
         int res = await server.RunAsync(args);
 

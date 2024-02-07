@@ -17,3 +17,4 @@
 /Users/gregoryolson/Development/cSharp/server/obj/Debug/net8.0/server.pdb
 /Users/gregoryolson/Development/cSharp/server/obj/Debug/net8.0/server.genruntimeconfig.cache
 /Users/gregoryolson/Development/cSharp/server/obj/Debug/net8.0/ref/server.dll
+/Users/gregoryolson/Development/cSharp/server/obj/Debug/net8.0/server.sourcelink.json

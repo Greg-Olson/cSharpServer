@@ -7,8 +7,5 @@
     <Nullable>enable</Nullable>
     
   </PropertyGroup>
-  <Target Name="CopyViewDirectory" AfterTargets="Build">
-    <Exec Command="cp -R &quot;$(ProjectDir)view&quot; &quot;$(TargetDir)view&quot;" IgnoreExitCode="true" />
-  </Target>
 
 </Project>
